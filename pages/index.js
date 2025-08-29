@@ -31,7 +31,7 @@ export default function Home() {
                 <p className="text-gray-600">Show your commitment through transparent promise tracking</p>
               </div>
               <div className="bg-white p-6 rounded-lg shadow-lg">
-                <h3 className="text-xl font-semibold mb-4">Grow Revenue</h3>
+                <h3 className="text-xl font-semibent mb-4">Grow Revenue</h3>
                 <p className="text-gray-600">Subscription-based model rewards consistent creators</p>
               </div>
             </div>
